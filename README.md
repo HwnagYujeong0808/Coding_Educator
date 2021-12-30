@@ -78,4 +78,6 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 <img src="https://user-images.githubusercontent.com/66208800/147767923-778b4e64-8648-4daa-b10d-1abde2b5ad19.png" width="400" height="30"/>
 
 
+***
 
+잘 부탁드립니다😀
