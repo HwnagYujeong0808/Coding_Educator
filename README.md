@@ -17,7 +17,6 @@ Winter Lecture 오티자료
 + 개발 환경의 경우 파이썬이 제대로 깔렸는지 확인하기 위해 cmd에 python을 쳐서 다음과 같이 뜬다면 파이썬이 잘 깔린 것입니다.
 <img src="https://user-images.githubusercontent.com/66208800/147762432-5b43bb09-1aca-4c2d-a7f5-abbfa96ff5f4.png" width = "600" height="200"/>
 
-***
 
 # 개발툴
 
@@ -36,7 +35,6 @@ Winter Lecture 오티자료
 <img src="https://user-images.githubusercontent.com/66208800/147763491-6357e11d-bf64-4bc4-8e86-33bc0938ddbd.png" width = "600" height="300"/>
 3. (단축키) 맨 왼쪽에는 프로젝트 창이 있다. 맨 왼쪽 빨간 박스로 표시한 곳을 클릭하면 프로젝트 창을 접었다 폈다 할 수 있다. 단축키를 눌러도 된다(Alt + 1).
 
-***
 # 파이썬 특징
 
 ### 인터프린터 언어
@@ -54,5 +52,7 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 ### 높은 확장성
 다른 언어와 쉽게 결합시킬 수 있음
 
-***
+
 # 출력
+* print를 이용해서 출력을 할 수 있습니다.
+
