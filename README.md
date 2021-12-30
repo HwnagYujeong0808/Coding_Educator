@@ -13,7 +13,7 @@ Winter Lecture
 
 
 + 개발 환경의 경우 파이썬이 제대로 깔렸는지 확인하기 위해 cmd에 python을 쳐서 다음과 같이 뜬다면 파이썬이 잘 깔린 것입니다.
-<img src="https://user-images.githubusercontent.com/66208800/147762432-5b43bb09-1aca-4c2d-a7f5-abbfa96ff5f4.png" width = "500" height="300"/>
+<img src="https://user-images.githubusercontent.com/66208800/147762432-5b43bb09-1aca-4c2d-a7f5-abbfa96ff5f4.png" width = "600" height="200"/>
 
 
 ## 개발툴
