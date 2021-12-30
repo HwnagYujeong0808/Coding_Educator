@@ -23,7 +23,7 @@ Winter Lecture 오티자료
 + IDLE, CMD로 파이썬 프로그래밍을 할 수 있습니다. 또한 파이참,아톰 등 다양한 파이썬 에디터 프로그램이 있지만, 저희 학원에서는 Pycharm을 씁니다.
 <img src="https://user-images.githubusercontent.com/66208800/147762711-81a4fad6-d476-4d50-80be-17975904101d.png" width = "120" height="100"/>
 
-+New Profect 생성
+## New Profect 생성
 
 <img src="https://user-images.githubusercontent.com/66208800/147763775-a7735ee9-36d2-4aab-ae29-ba9dff76ffb8.png" width = "600" height="300"/>
 1. Create New Project 클릭
@@ -70,9 +70,8 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 이경우엔 {0}식으로 쓰고, 안에 숫자를 늘림
 
 + Format을 이용한 출력예시
-![image](https://user-images.githubusercontent.com/66208800/147767917-d5a5ea6a-8184-4822-9874-2c22fa0dcef2.png)
-
-![image](https://user-images.githubusercontent.com/66208800/147767923-778b4e64-8648-4daa-b10d-1abde2b5ad19.png)
+<img src="https://user-images.githubusercontent.com/66208800/147767917-d5a5ea6a-8184-4822-9874-2c22fa0dcef2.png" width="100" height="50"/>
+<img src="https://user-images.githubusercontent.com/66208800/147767923-778b4e64-8648-4daa-b10d-1abde2b5ad19.png" width="100" height="50"/>
 
 
 
