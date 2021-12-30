@@ -15,3 +15,19 @@ Winter Lecture
 ![image](https://user-images.githubusercontent.com/66208800/147762432-5b43bb09-1aca-4c2d-a7f5-abbfa96ff5f4.png)
 
 ## 개발툴
++ IDLE, CMD로 파이썬 프로그래밍을 할 수 있습니다. 또한 파이참,아톰 등 다양한 파이썬 에디터 프로그램이 있지만, 저희 학원에서는 Pycharm을 씁니다.
+![image](https://user-images.githubusercontent.com/66208800/147762711-81a4fad6-d476-4d50-80be-17975904101d.png)
+
++New Profect 생성
+
+![image](https://user-images.githubusercontent.com/66208800/147763775-a7735ee9-36d2-4aab-ae29-ba9dff76ffb8.png)
+1. Create New Project 클릭
+
+
+
+맨 왼쪽에는 프로젝트 창이 있다.
+![image](https://user-images.githubusercontent.com/66208800/147763491-6357e11d-bf64-4bc4-8e86-33bc0938ddbd.png)
+맨 왼쪽 빨간 박스로 표시한 곳을 클릭하면 프로젝트 창을 접었다 폈다 할 수 있다. 단축키를 눌러도 된다(Alt + 1).
+
+
+
