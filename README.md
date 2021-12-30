@@ -70,8 +70,8 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 이경우엔 {0}식으로 쓰고, 안에 숫자를 늘림
 
 + Format을 이용한 출력예시
-<img src="https://user-images.githubusercontent.com/66208800/147767917-d5a5ea6a-8184-4822-9874-2c22fa0dcef2.png" width="100" height="50"/>
-<img src="https://user-images.githubusercontent.com/66208800/147767923-778b4e64-8648-4daa-b10d-1abde2b5ad19.png" width="100" height="50"/>
+<img src="https://user-images.githubusercontent.com/66208800/147767917-d5a5ea6a-8184-4822-9874-2c22fa0dcef2.png" width="400" height="50"/>
+<img src="https://user-images.githubusercontent.com/66208800/147767923-778b4e64-8648-4daa-b10d-1abde2b5ad19.png" width="400" height="50"/>
 
 
 
