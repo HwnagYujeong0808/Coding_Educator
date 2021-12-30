@@ -59,3 +59,20 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 
 ### 이스케이프 코드
 <img src="https://user-images.githubusercontent.com/66208800/147767193-5fa41388-fb84-43dd-90a8-7a90d26b5c84.png" width="300" height="350"/>
+
+# 출력 (Formatting 이용)
++ 문자열 안에 어떤 값을 삽입
+
+### 포맷 코드
+<img src="https://user-images.githubusercontent.com/66208800/147767771-b48cf8f7-0bd6-4bc7-8987-da57c1e35f9f.png" width="300" height="350"/>
+
++ %을 이용한 포맷이 아닌 인덱싱으로도 포맷가능
+이경우엔 {0}식으로 쓰고, 안에 숫자를 늘림
+
++ Format을 이용한 출력예시
+![image](https://user-images.githubusercontent.com/66208800/147767917-d5a5ea6a-8184-4822-9874-2c22fa0dcef2.png)
+
+![image](https://user-images.githubusercontent.com/66208800/147767923-778b4e64-8648-4daa-b10d-1abde2b5ad19.png)
+
+
+
