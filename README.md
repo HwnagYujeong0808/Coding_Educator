@@ -8,7 +8,7 @@ Winter Lecture
 + 시스템 속성 > 환경 변수 > 사수탬 변수에서 편집 누르기 > 본인 path에 맞게 경로 추가하기
 + ex) C:\Users\user\AppData\Local\Programs\Python\Python37 
 
-<img src="https://user-images.githubusercontent.com/66208800/147761988-53b8867d-a4a5-4edd-ab7f-e0cde271cd64.png" width = "600" height="300"/>
+<img src="https://user-images.githubusercontent.com/66208800/147761988-53b8867d-a4a5-4edd-ab7f-e0cde271cd64.png" width = "200" height="400"/>
 <img src="https://user-images.githubusercontent.com/66208800/147762003-765ff0c6-0d9b-4e3b-8a56-819222dce0ce.png" width = "600" height="300"/>
 
 
@@ -25,10 +25,15 @@ Winter Lecture
 <img src="https://user-images.githubusercontent.com/66208800/147763775-a7735ee9-36d2-4aab-ae29-ba9dff76ffb8.png" width = "600" height="300"/>
 1. Create New Project 클릭
 
-
+<img src="https://user-images.githubusercontent.com/66208800/147765007-349a0801-26f6-4feb-9fac-734519165e73.png" width = "600" height="300" />
+<img src="https://user-images.githubusercontent.com/66208800/147765123-60971b7d-e1b2-46e0-b136-ed6389b0fef0.png" width = "600" height="300"/>
+2. 프로젝트 이름은 기본적으로 Untitled 이므로 바꿔주고, 아래쪽의 Project Interpreter를 설정해 둔다. 미리 설정했다면 목록이 보일 것이고, 아니라면 새로 생성하거나 python.exe 위치를 찾아 지정해준다.
 
 <img src="https://user-images.githubusercontent.com/66208800/147763491-6357e11d-bf64-4bc4-8e86-33bc0938ddbd.png" width = "600" height="300"/>
-맨 왼쪽에는 프로젝트 창이 있다. 맨 왼쪽 빨간 박스로 표시한 곳을 클릭하면 프로젝트 창을 접었다 폈다 할 수 있다. 단축키를 눌러도 된다(Alt + 1).
+3. (단축키) 맨 왼쪽에는 프로젝트 창이 있다. 맨 왼쪽 빨간 박스로 표시한 곳을 클릭하면 프로젝트 창을 접었다 폈다 할 수 있다. 단축키를 눌러도 된다(Alt + 1).
 
 
+# 파이썬 특징
+## 파이썬 특징
+### 파이썬 특징
 
