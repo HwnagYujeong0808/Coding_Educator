@@ -58,4 +58,4 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 + 문자열을 붙일 수 있음
 
 ### 이스케이프 코드
-<img src="https://user-images.githubusercontent.com/66208800/147767193-5fa41388-fb84-43dd-90a8-7a90d26b5c84.png" width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66208800/147767193-5fa41388-fb84-43dd-90a8-7a90d26b5c84.png" width="300" height="350"/>
