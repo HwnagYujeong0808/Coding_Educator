@@ -13,7 +13,7 @@ Winter Lecture 오티자료
 - ex) C:\Users\user\AppData\Local\Programs\Python\Python37 
 
 <img src="https://user-images.githubusercontent.com/66208800/147761988-53b8867d-a4a5-4edd-ab7f-e0cde271cd64.png" width = "300" height="400"/>
-<img src="https://user-images.githubusercontent.com/66208800/147762003-765ff0c6-0d9b-4e3b-8a56-819222dce0ce.png" width = "600" height="300"/>
+<img src="https://user-images.githubusercontent.com/66208800/147762003-765ff0c6-0d9b-4e3b-8a56-819222dce0ce.png" width = "600" height="400"/>
 
 
 -  개발 환경의 경우 파이썬이 제대로 깔렸는지 확인하기 위해 cmd에 python을 쳐서 다음과 같이 뜬다면 파이썬이 잘 깔린 것입니다.
