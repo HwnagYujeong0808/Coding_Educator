@@ -21,7 +21,7 @@ Winter Lecture 오티자료
 # 개발툴
 
 + IDLE, CMD로 파이썬 프로그래밍을 할 수 있습니다. 또한 파이참,아톰 등 다양한 파이썬 에디터 프로그램이 있지만, 저희 학원에서는 Pycharm을 씁니다.
-<img src="https://user-images.githubusercontent.com/66208800/147762711-81a4fad6-d476-4d50-80be-17975904101d.png" width = "200" height="200"/>
+<img src="https://user-images.githubusercontent.com/66208800/147762711-81a4fad6-d476-4d50-80be-17975904101d.png" width = "120" height="100"/>
 
 +New Profect 생성
 
@@ -54,5 +54,9 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 
 
 # 출력
-* print를 이용해서 출력을 할 수 있습니다.
++ print를 이용해서 출력을 할 수 있습니다.
++ 문자열을 붙일 수 있음![image](https://user-images.githubusercontent.com/66208800/147767280-71117f09-88d8-4160-98d3-bfbdec729ab5.png)
 
+
+### 이스케이프 코드
+<img src="https://user-images.githubusercontent.com/66208800/147767193-5fa41388-fb84-43dd-90a8-7a90d26b5c84.png">
