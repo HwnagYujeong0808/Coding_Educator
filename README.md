@@ -8,7 +8,7 @@ Winter Lecture
 + 시스템 속성 > 환경 변수 > 사수탬 변수에서 편집 누르기 > 본인 path에 맞게 경로 추가하기
 + ex) C:\Users\user\AppData\Local\Programs\Python\Python37 
 
-<img src="https://user-images.githubusercontent.com/66208800/147761988-53b8867d-a4a5-4edd-ab7f-e0cde271cd64.png" width = "200" height="400"/>
+<img src="https://user-images.githubusercontent.com/66208800/147761988-53b8867d-a4a5-4edd-ab7f-e0cde271cd64.png" width = "300" height="400"/>
 <img src="https://user-images.githubusercontent.com/66208800/147762003-765ff0c6-0d9b-4e3b-8a56-819222dce0ce.png" width = "600" height="300"/>
 
 
