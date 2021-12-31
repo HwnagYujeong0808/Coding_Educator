@@ -149,7 +149,6 @@ Break point
 - 문자열 안에 어떤 값을 삽입
 
 ### 포맷 코드
-- 
 <img src="https://user-images.githubusercontent.com/66208800/147767771-b48cf8f7-0bd6-4bc7-8987-da57c1e35f9f.png" width="250" height="250"/>
 
 - %을 이용한 포맷이 아닌 인덱싱으로도 포맷가능
