@@ -76,7 +76,7 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 1. 별도의 Extension이나 플러그 인을 따로 설치할 필요가 없다.
 2. 코드 작성 시 자동완성, 문법 체크 등 편리한 기능을 많이 제공한다.
 
-## New Profect 생성
+## New Project 생성
 
 <img src="https://user-images.githubusercontent.com/66208800/147763775-a7735ee9-36d2-4aab-ae29-ba9dff76ffb8.png" width = "600" height="300"/>
 1. Create New Project 클릭
@@ -156,8 +156,8 @@ Break point
 이경우엔 {0}식으로 쓰고, 안에 숫자를 늘림
 
 - Format을 이용한 출력예시
-<img src="https://user-images.githubusercontent.com/66208800/147767917-d5a5ea6a-8184-4822-9874-2c22fa0dcef2.png" width="400" height="30"/>
-<img src="https://user-images.githubusercontent.com/66208800/147767923-778b4e64-8648-4daa-b10d-1abde2b5ad19.png" width="400" height="30"/>
+<img src="https://user-images.githubusercontent.com/66208800/147767917-d5a5ea6a-8184-4822-9874-2c22fa0dcef2.png" width="350" height="15"/>
+<img src="https://user-images.githubusercontent.com/66208800/147767923-778b4e64-8648-4daa-b10d-1abde2b5ad19.png" width="350" height="15"/>
 
 
 ***
