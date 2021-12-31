@@ -66,16 +66,20 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 -  개발 환경의 경우 파이썬이 제대로 깔렸는지 확인하기 위해 cmd에 python을 쳐서 다음과 같이 뜬다면 파이썬이 잘 깔린 것입니다.
 <img src="https://user-images.githubusercontent.com/66208800/147762432-5b43bb09-1aca-4c2d-a7f5-abbfa96ff5f4.png" width = "600" height="200"/>
 
+***
 
 ## 개발툴
 
 - IDLE, CMD로 파이썬 프로그래밍을 할 수 있습니다.
 - 파이참,아톰 등 다양한 파이썬 에디터 프로그램이 있지만, 저희 학원에서는 **Pycharm**을 씁니다.
 <img src="https://user-images.githubusercontent.com/66208800/147762711-81a4fad6-d476-4d50-80be-17975904101d.png" width = "120" height="100"/>
-#### **Pycharm의 장점** 
+
+#### Pycharm의 장점
+
 1. 별도의 Extension이나 플러그 인을 따로 설치할 필요가 없다.
 2. 코드 작성 시 자동완성, 문법 체크 등 편리한 기능을 많이 제공한다.
 
+***
 ## New Project 생성
 
 <img src="https://user-images.githubusercontent.com/66208800/147763775-a7735ee9-36d2-4aab-ae29-ba9dff76ffb8.png" width = "600" height="300"/>
