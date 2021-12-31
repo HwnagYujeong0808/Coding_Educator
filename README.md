@@ -3,38 +3,13 @@ Winter Lecture 오티자료
 
 
 ***
-## 파이썬 설치 및 환경변수
 
-**1. 파이썬 설치**
+## 파이썬 이란?
+- 1991년 발표
+- 인터프리터식
+- 객체지향적
+- 동적 타이핑
 
-**2. 제어판 -> 시스템 및 보안 -> 시스템 -> 고급 시스템 설정**
-
-- 시스템 속성 > 환경 변수 > 사수탬 변수에서 편집 누르기 > 본인 path에 맞게 경로 추가하기
-- ex) C:\Users\user\AppData\Local\Programs\Python\Python37 
-
-<img src="https://user-images.githubusercontent.com/66208800/147761988-53b8867d-a4a5-4edd-ab7f-e0cde271cd64.png" width = "300" height="400"/>
-<img src="https://user-images.githubusercontent.com/66208800/147762003-765ff0c6-0d9b-4e3b-8a56-819222dce0ce.png" width = "600" height="400"/>
-
-
--  개발 환경의 경우 파이썬이 제대로 깔렸는지 확인하기 위해 cmd에 python을 쳐서 다음과 같이 뜬다면 파이썬이 잘 깔린 것입니다.
-<img src="https://user-images.githubusercontent.com/66208800/147762432-5b43bb09-1aca-4c2d-a7f5-abbfa96ff5f4.png" width = "600" height="200"/>
-
-
-## 개발툴
-
-- IDLE, CMD로 파이썬 프로그래밍을 할 수 있습니다. 또한 파이참,아톰 등 다양한 파이썬 에디터 프로그램이 있지만, 저희 학원에서는 **Pycharm**을 씁니다.
-<img src="https://user-images.githubusercontent.com/66208800/147762711-81a4fad6-d476-4d50-80be-17975904101d.png" width = "120" height="100"/>
-
-## New Profect 생성
-
-<img src="https://user-images.githubusercontent.com/66208800/147763775-a7735ee9-36d2-4aab-ae29-ba9dff76ffb8.png" width = "600" height="300"/>
-1. Create New Project 클릭
-
-<img src="https://user-images.githubusercontent.com/66208800/147768654-9b8a1598-59e2-48a1-8f5b-94e54bf2654b.png" width = "600" height="300"/>
-2. 프로젝트 이름은 기본적으로 Untitled 이므로 바꿔주고, 아래쪽의 Project Interpreter를 설정해 둔다. 미리 설정했다면 목록이 보일 것이고, 아니라면 새로 생성하거나 python.exe 위치를 찾아 지정해준다.
-
-<img src="https://user-images.githubusercontent.com/66208800/147763491-6357e11d-bf64-4bc4-8e86-33bc0938ddbd.png" width = "600" height="300"/>
-3. 맨 왼쪽에는 프로젝트 창이 있다. 맨 왼쪽 빨간 박스로 표시한 곳을 클릭하면 프로젝트 창을 접었다 폈다 할 수 있다. 단축키를 눌러도 된다(Alt + 1).
 
 ***
 
@@ -54,6 +29,78 @@ Garbage Collection기능을 사용하여 메모리를 자동 할당함
 
 ### 높은 확장성
 다른 언어와 쉽게 결합시킬 수 있음
+
+### 무료이지만 강력함
+파이썬은 오픈소스 무료이고, 프로그래머들은 만들고자 하는 프로그램의 대부분을 파이썬으로 만들 수 있음
+
+***
+# 파이썬으로 뭘 하나?
+
+## Can
+- 시스템 유틸리티
+- GUI(Graphhic User Interface)
+
+## 파이썬 설치 및 환경변수
+
+**1. 파이썬 설치**
+
+**2. 제어판 -> 시스템 및 보안 -> 시스템 -> 고급 시스템 설정**
+
+- 시스템 속성 > 환경 변수 > 사수탬 변수에서 편집 누르기 > 본인 path에 맞게 경로 추가하기
+- ex) C:\Users\user\AppData\Local\Programs\Python\Python37 
+
+<img src="https://user-images.githubusercontent.com/66208800/147761988-53b8867d-a4a5-4edd-ab7f-e0cde271cd64.png" width = "300" height="400"/>
+<img src="https://user-images.githubusercontent.com/66208800/147762003-765ff0c6-0d9b-4e3b-8a56-819222dce0ce.png" width = "600" height="400"/>
+
+
+-  개발 환경의 경우 파이썬이 제대로 깔렸는지 확인하기 위해 cmd에 python을 쳐서 다음과 같이 뜬다면 파이썬이 잘 깔린 것입니다.
+<img src="https://user-images.githubusercontent.com/66208800/147762432-5b43bb09-1aca-4c2d-a7f5-abbfa96ff5f4.png" width = "600" height="200"/>
+
+
+## 개발툴
+
+- IDLE, CMD로 파이썬 프로그래밍을 할 수 있습니다.
+- 파이참,아톰 등 다양한 파이썬 에디터 프로그램이 있지만, 저희 학원에서는 **Pycharm**을 씁니다.
+<img src="https://user-images.githubusercontent.com/66208800/147762711-81a4fad6-d476-4d50-80be-17975904101d.png" width = "120" height="100"/>
+#### **Pycharm의 장점** 
+1. 별도의 Extension이나 플러그 인을 따로 설치할 필요가 없다.
+2. 코드 작성 시 자동완성, 문법 체크 등 편리한 기능을 많이 제공한다.
+
+## New Profect 생성
+
+<img src="https://user-images.githubusercontent.com/66208800/147763775-a7735ee9-36d2-4aab-ae29-ba9dff76ffb8.png" width = "600" height="300"/>
+1. Create New Project 클릭
+
+<img src="https://user-images.githubusercontent.com/66208800/147768654-9b8a1598-59e2-48a1-8f5b-94e54bf2654b.png" width = "600" height="300"/>
+2. 프로젝트 이름은 기본적으로 Untitled 이므로 바꿔주고, 아래쪽의 Project Interpreter를 설정해 둔다. 미리 설정했다면 목록이 보일 것이고, 아니라면 새로 생성하거나 python.exe 위치를 찾아 지정해준다.
+
+<img src="https://user-images.githubusercontent.com/66208800/147763491-6357e11d-bf64-4bc4-8e86-33bc0938ddbd.png" width = "600" height="300"/>
+3. 맨 왼쪽에는 프로젝트 창이 있다. 맨 왼쪽 빨간 박스로 표시한 곳을 클릭하면 프로젝트 창을 접었다 폈다 할 수 있다. 단축키를 눌러도 된다(Alt + 1).
+
+***
+
+# 목차(배우는 순서)
+
+- **Python 대화형 인터프리터(Python shell)**을 이용하면 결과를 바로 확인할 수 있다.
+
+
+### 1. 자료형 
+숫자형, 문자열 자료형, 리스트 자료형, 튜플 자료형, 딕셔너리 자료형, 집합 자료형
+
+### 2. 제어문
+if문, while문, for문
+
+### 3. 프로그램 입출력
+함수, *사용자 입출력*, 파일 읽고 쓰기
+
+### 4. 파이썬 날개 달기
+클래스, 모듈, 패키지, 예외처리
+
+### 5. 정규표현식
+
+### 6. 파이게임
+파이썬으로 게임을 만드는 프레임워크 **파이게임**을 이용한 간단한 게임 제작 
+
 
 ***
 
