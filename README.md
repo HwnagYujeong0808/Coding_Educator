@@ -1,4 +1,4 @@
-# Python_Lec
+# Programming_Lec
 Winter Lecture 오티자료
 
 
