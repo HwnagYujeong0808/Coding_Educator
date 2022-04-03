@@ -5,7 +5,7 @@
 
 ## 1. 연구 진행 방향 - 시뮬레이터
 
-   <img src="https://user-images.githubusercontent.com/66208800/161445074-2447f080-682d-4408-a8f5-57d3d93e72c7.png" height="60px" width="200px">
+   <img src="https://user-images.githubusercontent.com/66208800/161445074-2447f080-682d-4408-a8f5-57d3d93e72c7.png" height="70px" width="250px">
 
 
    + 초기 **Soc**, **Pe**(output power of battery) 알 때 **V**, **I**, **R**, **$Soc_{t+1}$** 추정 가능하다.
@@ -25,7 +25,7 @@
 ## 3. 온도 시뮬레이터
     
    1) 배터리 총 용량, 패러데이 상수와 같은 파라미터 조절하며 시뮬레이터 돌려봄
-   2) reward plots - Korea
+   2) Temp_amb (실온) 근처에서 C_cell (heat capacity of the battery)과 delta_S(엔트로피 변화)에 따라 그래프의 모양 많이 달라짐 (아래로 볼록, 위로 볼록, 온도 범위)
    3) 논문에서의 온도 그래프
 
    <img src="https://user-images.githubusercontent.com/66208800/161445610-6f45de5b-4729-4202-9618-e6d659c62e21.png" height="300px" width="400px">
