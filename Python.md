@@ -5,7 +5,7 @@
 
 ## 1. 연구 진행 방향 - 시뮬레이터
 
-<img="https://user-images.githubusercontent.com/66208800/161445074-2447f080-682d-4408-a8f5-57d3d93e72c7.png"height="50px" width="150px">
+<img="https://user-images.githubusercontent.com/66208800/161445074-2447f080-682d-4408-a8f5-57d3d93e72c7.png" height="50px" width="150px">
 
 
    + 초기 **Soc**, **Pe**(output power of battery) 알 때 **V**, **I**, **R**, **$Soc_{t+1}$** 추정 가능하다.
@@ -28,7 +28,7 @@
    2) reward plots - Korea
    3) 논문에서의 온도 그래프
 
-<img="https://user-images.githubusercontent.com/66208800/161445610-6f45de5b-4729-4202-9618-e6d659c62e21.png"height="100px" width="300px">
+<img="https://user-images.githubusercontent.com/66208800/161445610-6f45de5b-4729-4202-9618-e6d659c62e21.png" height="100px" width="300px">
    
      
    + 'A Multi-Agent Reinforcement Learning Framework for Lithium-ion Battery Scheduling Problems'
