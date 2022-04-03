@@ -8,18 +8,18 @@
    <img src="https://user-images.githubusercontent.com/66208800/161445074-2447f080-682d-4408-a8f5-57d3d93e72c7.png" height="70px" width="250px">
 
 
-   + 초기 **Soc**, **Pe**(output power of battery) 알 때 **V**, **I**, **R**, **$Soc_{t+1}$** 추정 가능하다.
+   + 초기 **Soc**, **Pe**(output power of battery) 알 때 **V**, **I**, **R**, **Soc_{t+1}** 추정 가능하다.
    + Deep Reinforcement Learning-Based Energy Storage Arbitrage with Accurate Lithium-Ion Battery Degradation Model에 나온 파라미터 바탕으로 충/방전 효율 및 soc 추정
 
 
 ## 2.  SOC 시뮬레이터
    1. Discharge 될 때 soc & 온도 변화 추정 
    2. 초기 Soc = 1로 놓고 시뮬레이터 돌림
-      + $R_{tot}$ :0.189 (sum of $𝑅_𝑠, 𝑅_{𝑡𝑠}, 𝑅_{𝑡𝑙}$)
-      + $V_{oc}$ :4.187 (open circuit voltage)
-      + **$I_{dis}$ :0.190** 
-      + $eta_{dis}$ :0.991 (discharging efficiencies of battery)
-      + $Soc_{t+1}$ : 0.99973
+      + R_tot :0.189 (sum of $𝑅_𝑠, 𝑅_{𝑡𝑠}, 𝑅_{𝑡𝑙}$)
+      + V_oc :4.187 (open circuit voltage)
+      + **I_dis :0.190** 
+      + eta_dis :0.991 (discharging efficiencies of battery)
+      + Soc_t+1 : 0.99973
 
 
 ## 3. 온도 시뮬레이터
