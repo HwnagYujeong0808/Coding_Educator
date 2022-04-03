@@ -5,7 +5,7 @@
 
 ## 1. 연구 진행 방향 - 시뮬레이터
 
-   <img src="https://user-images.githubusercontent.com/66208800/161445074-2447f080-682d-4408-a8f5-57d3d93e72c7.png" height="150px" width="200px">
+   <img src="https://user-images.githubusercontent.com/66208800/161445074-2447f080-682d-4408-a8f5-57d3d93e72c7.png" height="60px" width="200px">
 
 
    + 초기 **Soc**, **Pe**(output power of battery) 알 때 **V**, **I**, **R**, **$Soc_{t+1}$** 추정 가능하다.
